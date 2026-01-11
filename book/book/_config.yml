@@ -1,4 +1,7 @@
 title: My Python Book
-author: Vikesh Koul
-execute:
-  execute_notebooks: force
+author: VKoul
+logo: logo.png   # Make sure this file is inside the 'book' folder!
+
+# Add a "Repository" button to the top header
+repository:
+  url: https
