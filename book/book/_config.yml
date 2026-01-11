@@ -1,7 +1,0 @@
-title: My Python Book
-author: VKoul
-logo: logo.png   # Make sure this file is inside the 'book' folder!
-
-# Add a "Repository" button to the top header
-repository:
-  url: https
