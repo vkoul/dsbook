@@ -1,0 +1,23 @@
+format: jb-book
+root: intro
+
+parts:
+  - caption: Python Basics
+    chapters:
+    - file: 01Python_Data_Types
+    - file: 02Python_Data_Structure_and_Functions
+
+  - caption: Data Analysis
+    chapters:
+    - file: 03Pandas_Overview
+    - file: 04Pandas_Plotting
+    - file: 05Missing_Values_Treatment
+
+  - caption: Machine Learning
+    chapters:
+    - file: 06Scaling_Variables
+    - file: 07K-NN_Hyperparameters
+    - file: 08DecisionTree_Exploration
+    - file: 09SVM
+    - file: 10Clustering
+    
