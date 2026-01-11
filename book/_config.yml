@@ -1,0 +1,11 @@
+title: Data Science Book
+author: VKoul
+logo: logo.png   # Must match your uploaded filename
+
+repository:
+  url: https://github.com/vkoul/dsbook  # <--- Updated for 'dsbook'
+  path_to_book: book
+  branch: main
+
+execute:
+  execute_notebooks: force
