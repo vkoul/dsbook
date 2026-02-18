@@ -7,7 +7,3 @@ It focuses on selected topics and the core ideas behind them. While it’s not a
 :::{note}
 This is a live book and will be continuously updated with new content.
 :::
-
-## Table of Contents
-
-```{tableofcontents}
