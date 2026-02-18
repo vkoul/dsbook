@@ -4,23 +4,23 @@ root: intro
 parts:
   - caption: Python Basics
     chapters:
-    - file: Python_Data_Types
-    - file: Python_Data_Structure_and_Functions
+      - file: Python_Data_Types
+      - file: Python_Data_Structure_and_Functions
 
   - caption: Data Analysis
     chapters:
-    - file: Pandas_Overview
-    - file: Pandas_Plotting
+      - file: Pandas_Overview
+      - file: Pandas_Plotting
 
   - caption: Pre-Processing
-    - file: Missing_Values_Treatment
-    - file: Scaling_Variables
-    - file: PCA_Lab
-    
- - caption: Machine Learning
     chapters:
-    - file: K_NN_Hyperparameters
-    - file: DecisionTree_Exploration
-    - file: SVM
-    - file: Clustering
-    
+      - file: Missing_Values_Treatment
+      - file: Scaling_Variables
+      - file: PCA_Lab
+
+  - caption: Machine Learning
+    chapters:
+      - file: K_NN_Hyperparameters
+      - file: DecisionTree_Exploration
+      - file: SVM
+      - file: Clustering
