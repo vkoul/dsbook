@@ -8,4 +8,4 @@ repository:
   branch: main
 
 execute:
-  execute_notebooks: force
+  execute_notebooks: "off"
